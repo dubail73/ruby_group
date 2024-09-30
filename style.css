@@ -1,0 +1,26 @@
+h1 {
+    color:white
+}
+
+body {
+    background-color: black;
+}
+
+.mainn {
+    display : flex;
+    flex-direction: row;
+    justify-items: center;
+    margin-top: 100px; 
+    
+}
+
+.txt {
+    display: flex;
+    justify-content: center;
+    width: 30px;
+}
+
+.boutonn {
+    display: flex;
+    margin-top: 100px;
+}
